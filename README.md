@@ -10,7 +10,7 @@ Análise e Desenvolvimento de Sistemas - UNIP (Universidade Paulista)
 
 
 #### 💡 ÁREA DE ATUAÇÃO
-Front-End
+- Front-End
 
 #### ✅ HABILIDADES
 
