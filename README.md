@@ -14,10 +14,12 @@ Análise e Desenvolvimento de Sistemas - UNIP (Universidade Paulista)
 
 #### ✅ HABILIDADES
 
+- MYSQL
 - HTML5
 - CSS3
-- MYSQL
+- JAVASCRIPT
 - GIT&GITHUB
+
 
 
 #### 🚀 CURSOS
