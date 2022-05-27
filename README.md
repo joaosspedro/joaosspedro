@@ -25,7 +25,7 @@ Análise e Desenvolvimento de Sistemas - UNIP (Universidade Paulista)
 #### 🚀 CURSOS
 JavaScript do Básico ao Avançado (c/ Node.js e Projetos)
 
-MySQL [40h horas] - Curso em Video
+MySQL [40 horas] - Curso em Video
 
 
 
