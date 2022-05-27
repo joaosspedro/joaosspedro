@@ -3,14 +3,20 @@
 
 #### OBJETIVO
 
+
 #### FORMAÇÃO
+Análise e Desenvolvimento de Sistemas - UNIP (Universidade Paulista)
+
 
 #### ÁREA DE ATUAÇÃO
 
+
+
 #### CURSOS
 
-#### CONTATO
 
+
+#### CONTATO
 **E-mail:** 
 joaoss_pedro@hotmail.com
 
