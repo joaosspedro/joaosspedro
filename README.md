@@ -1,18 +1,18 @@
 ## Olá, me chamo João Pedro Silva Santos!
 
 
-#### OBJETIVO
+#### 💻 OBJETIVO
 Oferecer a melhor experiência aos usuários através dos meus conhecimentos e habilidades. Estou em busca da minha primeira oportunidade de estágio como Desenvolvedor Front-End.
 
-#### FORMAÇÃO 🧑‍🎓
+#### 🧑‍🎓 FORMAÇÃO 
 Análise e Desenvolvimento de Sistemas - UNIP (Universidade Paulista)
 
 
 
-#### ÁREA DE ATUAÇÃO
+#### ✅ ÁREA DE ATUAÇÃO
 Front-End
 
-#### HABILIDADES
+#### 💡HABILIDADES
 
 - HTML5
 - CSS3
@@ -20,14 +20,14 @@ Front-End
 - GIT&GITHUB
 
 
-#### CURSOS
+#### 🚀 CURSOS
 JavaScript do Básico ao Avançado (c/ Node.js e Projetos)
 
 MySQL [40h horas] - Curso em Video
 
 
 
-#### CONTATO
+#### 🚀 CONTATO
 **E-mail:** 
 joaoss_pedro@hotmail.com
 
