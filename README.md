@@ -1,7 +1,21 @@
-### Olá, me chamo João Pedro!👋
+### Olá, me chamo João Pedro Silva Santos!
 
+#### OBJETIVO
 
+#### FORMAÇÃO
 
+#### ÁREA DE ATUAÇÃO
+
+#### CURSOS
+
+#### CONTATO
+
+**E-mail:** 
+joaoss_pedro@hotmail.com
+
+**LinkedIn:**
+
+**Instagram:**
 <!--
 **joaosspedro/joaosspedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
