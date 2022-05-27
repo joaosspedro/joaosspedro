@@ -12,10 +12,17 @@ Análise e Desenvolvimento de Sistemas - UNIP (Universidade Paulista)
 #### ÁREA DE ATUAÇÃO
 Front-End
 
+#### HABILIDADES
+
+- HTML5
+- CSS3
+- MYSQL
+- GIT&GITHUB
 
 
 #### CURSOS
 JavaScript do Básico ao Avançado (c/ Node.js e Projetos)
+
 MySQL [40h horas] - Curso em Video
 
 
