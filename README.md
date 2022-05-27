@@ -9,10 +9,10 @@ Análise e Desenvolvimento de Sistemas - UNIP (Universidade Paulista)
 
 
 
-#### ✅ ÁREA DE ATUAÇÃO
+#### 💡 ÁREA DE ATUAÇÃO
 Front-End
 
-#### 💡HABILIDADES
+#### ✅ HABILIDADES
 
 - HTML5
 - CSS3
