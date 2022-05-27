@@ -1,4 +1,5 @@
-### Olá, me chamo João Pedro Silva Santos!
+## Olá, me chamo João Pedro Silva Santos!
+
 
 #### OBJETIVO
 
@@ -14,8 +15,12 @@
 joaoss_pedro@hotmail.com
 
 **LinkedIn:**
+https://www.linkedin.com/in/joaosspedro/
 
 **Instagram:**
+https://www.instagram.com/joaopedross35/
+
+
 <!--
 **joaosspedro/joaosspedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
