@@ -8,11 +8,15 @@ Oferecer a melhor experiência aos usuários através dos meus conhecimentos e h
 Análise e Desenvolvimento de Sistemas - UNIP (Universidade Paulista)
 
 
+
 #### ÁREA DE ATUAÇÃO
 Front-End
 
 
+
 #### CURSOS
+JavaScript do Básico ao Avançado (c/ Node.js e Projetos)
+MySQL [40h horas] - Curso em Video
 
 
 
