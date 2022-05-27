@@ -2,14 +2,14 @@
 
 
 #### OBJETIVO
-
+Oferecer a melhor experiência aos usuários através dos meus conhecimentos e habilidades. Estou em busca da minha primeira oportunidade de estágio como Desenvolvedor Front-End.
 
 #### FORMAÇÃO
 Análise e Desenvolvimento de Sistemas - UNIP (Universidade Paulista)
 
 
 #### ÁREA DE ATUAÇÃO
-
+Front-End
 
 
 #### CURSOS
