@@ -2,7 +2,7 @@
 
 
 #### 💻 OBJETIVO
-Oferecer a melhor experiência aos usuários através dos meus conhecimentos e habilidades. Estou em busca da minha primeira oportunidade de estágio na área de ti, como Desenvolvedor Front-End.
+Oferecer a melhor experiência aos usuários através dos meus conhecimentos e habilidades. Estou em busca da minha primeira oportunidade na área de ti, como Desenvolvedor Front-End.
 
 #### 🧑‍🎓 FORMAÇÃO 
 Análise e Desenvolvimento de Sistemas - UNIP (Universidade Paulista)
